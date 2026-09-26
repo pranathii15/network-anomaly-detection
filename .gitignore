@@ -1,0 +1,13 @@
+# Dataset files
+data/*.parquet
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# Streamlit secrets
+.streamlit/secrets.toml
