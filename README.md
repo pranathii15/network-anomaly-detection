@@ -3,6 +3,8 @@
 A machine learning-based cybersecurity project that detects unusual network traffic using **Isolation Forest**, an unsupervised anomaly detection algorithm.
 
 The system is trained using normal network traffic from the **UNSW-NB15 dataset** and identifies traffic that significantly deviates from learned normal behavior.
+
+
 Now available: https://detectnetworkanomaly.streamlit.app/
 ---
 
